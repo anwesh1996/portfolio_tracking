@@ -1,0 +1,32 @@
+{
+  "name": "portfolio_tracking",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anwesh1996/portfolio_tracking.git"
+  },
+  "author": "anwesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anwesh1996/portfolio_tracking/issues"
+  },
+  "homepage": "https://github.com/anwesh1996/portfolio_tracking#readme",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "chalk": "^4.1.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "figlet": "^1.5.0",
+    "helmet": "^4.0.0",
+    "http": "0.0.1-security",
+    "joi-objectid": "^3.0.1",
+    "mongoose": "^5.9.28",
+    "path": "^0.12.7",
+    "tracer": "^1.1.3"
+  }
+}
